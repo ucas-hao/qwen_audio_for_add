@@ -1,4 +1,7 @@
-## Environment:
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.11079-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.11079) 
+
+
+## 🎯 Environment:
 Install dependencies:
 ```shell
 conda create -n qwen_audio_sft python=3.10
@@ -7,7 +10,7 @@ pip install -r requiremet.txt
 pip install deepspeed==0.10.3
 ```
 
-## Dataset: 
+## 🎯 Dataset: 
 
 You should first prepare the dataset as in data/asv_fake_audio.jsonl:
 ```shell
@@ -15,17 +18,17 @@ You should first prepare the dataset as in data/asv_fake_audio.jsonl:
             "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
 ```
 
-## Train
+## 🎯 Train
 ```shell
 bash audio_8.sh
 ```
 
-## Infer eer
+## 🎯 Infer eer
 ```shell
 python infer_eer_8.py
 ```
 
-## If you want to train the audio encoder
+## 🎯 If you want to train the audio encoder
 ```shell
 finetune.py ---> frozen the audio encoder
 finetune_audio.py ---> train the audio encoder
@@ -46,3 +49,6 @@ non_lora_trainables = {(k[6:] if k.startswith('model.') else k): v for k, v in n
 merged_model.load_state_dict(non_lora_trainables, strict=False)
 ```
 Then you can inference the speech llm that audio encoder is trainable
+
+## 🙏 Acknowledgement
+We are thankful to LLaVA, Qwen-audio for releasing their models and code as open-source contributions.
