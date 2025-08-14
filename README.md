@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-<sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, China<br>
-<sup>2</sup>Department of Automation, Tsinghua University, Beijing, China<br>
-<sup>3</sup>Taizhou University, Taizhou, China<br>
-<sup>4</sup>Anhui University, Hefei, China<br>
-<sup>5</sup>Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China<br>
+<sup>1</sup>Institute of Automation, Chinese Academy of Sciences<br>
+<sup>2</sup>Department of Automation, Tsinghua University<br>
+<sup>3</sup>Taizhou University<br>
+<sup>4</sup>Anhui University<br>
+<sup>5</sup>Beijing National Research Center for Information Science and Technology<br>
 †Corresponding author.
 </p>
 
