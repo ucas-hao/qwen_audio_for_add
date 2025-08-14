@@ -1,0 +1,16 @@
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_6164845.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Real."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_3455269.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_4132181.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_4616308.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_7066019.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_3656125.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_7962475.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_8417781.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_8111589.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Real."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_5308162.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_8967047.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_5030377.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_7417487.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_2088517.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_8176264.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Real."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/train/wav/LA_T_9159161.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
