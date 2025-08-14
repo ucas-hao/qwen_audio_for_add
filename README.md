@@ -1,7 +1,7 @@
 [![arXiv](https://img.shields.io/badge/Arxiv-2505.11079-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.11079) 
 
 <p align="center">
-  <img src="audio_llm.pdf" alt="Main figure" width="600"/>
+  <img src="audio llm.pdf" alt="Main figure" width="600"/>
 </p>
 
 # ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection
