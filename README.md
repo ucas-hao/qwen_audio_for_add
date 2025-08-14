@@ -1,4 +1,3 @@
-[![arXiv](https://img.shields.io/badge/Arxiv-2505.11079-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.11079) 
 
 <p align="center">
   <img src="audiollm.png" alt="ALLM4ADD main figure" width="800">
@@ -9,7 +8,7 @@
 <p align="center">
   <em>[ACMMM2025] Official code for ALLM4ADD</em>
 </p>
-
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.11079-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.11079) 
 <p align="center">
   Hao Gu<sup>1</sup>, Jiangyan Yi<sup>2†</sup>, Chenglong Wang<sup>3</sup>, Jianhua Tao<sup>2</sup>,  
   Zheng Lian<sup>1</sup>, Jiayi He<sup>1</sup>, Yong Ren<sup>1</sup>, Yujie Chen<sup>4</sup>, Zhengqi Wen<sup>5</sup>
