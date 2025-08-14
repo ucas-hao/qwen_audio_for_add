@@ -80,3 +80,8 @@ Then you can inference the speech llm that audio encoder is trainable
 
 ## 🙏 Acknowledgement
 We are thankful to LLaVA, Qwen-audio for releasing their models and code as open-source contributions.
+
+## 🤖 Friends
+If you have any problem, please tell me:
+email: guhao2022@ia.ac.cn
+wechat: 18862041656
