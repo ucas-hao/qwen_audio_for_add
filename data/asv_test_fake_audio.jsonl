@@ -1,0 +1,16 @@
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_9580615.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_6636255.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_9275926.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_1967135.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Real."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_6949942.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_1077205.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_2373914.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_4232439.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Real."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_5718325.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_9823082.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_8726177.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_1042356.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_2267799.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_4871807.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_1865765.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
+{"messages": [{"role": "user", "audio": "/data3/renyong/xule/ASVspoof2019/LA/eval/wav/LA_E_9289625.wav", "content": "Is this audio real or fake?"}, {"role": "assistant", "content": "Fake."}]}
