@@ -1,5 +1,10 @@
 [![arXiv](https://img.shields.io/badge/Arxiv-2505.11079-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.11079) 
 
+_[ACMMM2025] Official code for Audio LLM for fake audio detection
+
+## Good News
+🔥[2025/7/5] Our work has been finally accepted by ACMMM 2025. This is the first work that fake audio detection with Audio LLM
+
 
 ## 🎯 Environment:
 Install dependencies:
