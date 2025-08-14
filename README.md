@@ -10,18 +10,19 @@
 </p>
 
 <p align="center">
-  Hao Gu<sup>1</sup>, Jiangyan Yi<sup>2†</sup>, Chenglong Wang<sup>3</sup>, Jianhua Tao<sup>2</sup>,  
+  Hao Gu<sup>1</sup>, Jiangyan Yi<sup>2†</sup>, Chenglong Wang<sup>3</sup>, Jianhua Tao<sup>2</sup>,<br>
   Zheng Lian<sup>1</sup>, Jiayi He<sup>1</sup>, Yong Ren<sup>1</sup>, Yujie Chen<sup>4</sup>, Zhengqi Wen<sup>5</sup>
 </p>
 
 <p align="center">
-<sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, China  
-<sup>2</sup>Department of Automation, Tsinghua University, Beijing, China  
-<sup>3</sup>Taizhou University, Taizhou, China  
-<sup>4</sup>Anhui University, Hefei, China  
-<sup>5</sup>Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China  
+<sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, China<br>
+<sup>2</sup>Department of Automation, Tsinghua University, Beijing, China<br>
+<sup>3</sup>Taizhou University, Taizhou, China<br>
+<sup>4</sup>Anhui University, Hefei, China<br>
+<sup>5</sup>Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China<br>
 †Corresponding author.
 </p>
+
 
 
 ## Good News
