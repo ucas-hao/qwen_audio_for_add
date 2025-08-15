@@ -62,7 +62,7 @@ finetune.py ---> frozen the audio encoder
 finetune_audio.py ---> train the audio encoder
 ```
 
-after you train the audio encoder, check the infer_eer_8.py
+after you train the audio encoder, change the infer_eer_8.py
 ```shell
 # non_lora_trainables = torch.load(os.path.join(peft_model_id, 'non_lora_trainables.bin'), map_location='cpu')
 # non_lora_trainables = {(k[11:] if k.startswith('base_model.') else k): v for k, v in non_lora_trainables.items()}
