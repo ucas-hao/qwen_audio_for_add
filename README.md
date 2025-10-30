@@ -85,3 +85,24 @@ We are thankful to LLaVA, Qwen-audio for releasing their models and code as open
 If you have any problem, please tell me:
 email: guhao2022@ia.ac.cn
 wechat: 18862041656
+
+## Cite
+```shell
+@inproceedings{10.1145/3746027.3755851,
+author = {Gu, Hao and Yi, Jiangyan and Wang, Chenglong and Tao, Jianhua and Lian, Zheng and He, Jiayi and Ren, Yong and Chen, Yujie and Wen, Zhengqi},
+title = {ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection},
+year = {2025},
+isbn = {9798400720352},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3746027.3755851},
+doi = {10.1145/3746027.3755851},
+abstract = {Audio deepfake detection (ADD) has grown increasingly important due to the rise of high-fidelity audio generative models and their potential for misuse. Given that audio large language models (ALLMs) have made significant progress in various audio processing tasks, a heuristic question arises: Can ALLMs be leveraged to solve ADD?. In this paper, we first conduct a comprehensive zero-shot evaluation of ALLMs on ADD, revealing their ineffectiveness. To this end, we propose ALLM4ADD, an ALLM-driven framework for ADD. Specifically, we reformulate ADD task as an audio question answering problem, prompting the model with the question: ''Is this audio fake or real?''. We then perform supervised fine-tuning to enable the ALLM to assess the authenticity of query audio. Extensive experiments are conducted to demonstrate that our ALLM-based method can achieve superior performance in fake audio detection, particularly in data-scarce scenarios. As a pioneering study, we anticipate that this work will inspire the research community to leverage ALLMs to develop more effective ADD systems. Code is available at https://github.com/ucas-hao/qwen_audio_for_add.git.},
+booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+pages = {11736–11745},
+numpages = {10},
+keywords = {audio deepfake detection, audio large language model},
+location = {Dublin, Ireland},
+series = {MM '25}
+}
+```
